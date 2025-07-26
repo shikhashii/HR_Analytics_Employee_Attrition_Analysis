@@ -8,6 +8,11 @@ This project explores the key factors driving employee attrition using HR analyt
 
 - Built interactive Tableau dashboards for business-ready insights
 
+  **Dataset Used:**
+
+  - <a href="https://github.com/shikhashii/HR_Analytics_Tableau_Project/blob/main/HR%20Data.xlsx">Dataset
+
+
 **Key Metrics & Analysis:**
 
 Attrition rate by department and job role
@@ -34,7 +39,7 @@ Identified high-risk departments and job roles with above-average attrition. Rev
 
 **✅ Tools Used:**
 
-Tableau (data analysis & visualization) 
+Tableau (Data analysis & visualization) - <a href="https://public.tableau.com/app/profile/shikha.pandey7064/viz/HRAnalyticsDashboard_17533734137390/HRAnalyticsDashboard">Dashboard
 
 
 
