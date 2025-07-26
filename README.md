@@ -41,5 +41,5 @@ Identified high-risk departments and job roles with above-average attrition. Rev
 
 Tableau (Data analysis & visualization) - <a href="https://public.tableau.com/app/profile/shikha.pandey7064/viz/HRAnalyticsDashboard_17533734137390/HRAnalyticsDashboard">Dashboard
 
-
+<img width="2516" height="1572" alt="image" src="https://github.com/user-attachments/assets/3a94ef68-4807-4292-babd-bf425ec46ea3" />
 
